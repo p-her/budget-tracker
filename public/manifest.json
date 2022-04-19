@@ -41,12 +41,12 @@
         "type" : "image/png"
     }
 ],
-"name": "buget tracker",
-"short_name": "buget tracker",
+"name": "Buget Tracker",
+"short_name": "Buget Tracker",
 "description": "An app that allows you to keep track of your budget.",
 "theme_color": "#ffffff",
-"start_url": "",
-"display": ""
+"start_url": "./index.html",
+"display": "standalone"
 
 
 }
