@@ -17,10 +17,6 @@ const FILES_TO_CACHE = [
   "/icons/icon-384X384.png",
   "/icons/icon-512X512.png"
 
-// public
-// public/index.html
-// public/manifest.json
-
  
 ];
 
